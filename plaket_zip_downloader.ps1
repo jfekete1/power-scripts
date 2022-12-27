@@ -26,7 +26,7 @@ $zipname = "plaket_BASE_$datestr.zip"
 $destination = "C:\$zipname"
 $url = "https://organ.zalaszam.hu/adattrezor/plaket/$zipname"
 $username = 'plaket'
-$password = 'gpc7JxsvWkRC'
+$password = 'asdasdasd'
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $pair = "$($username):$($password)"
